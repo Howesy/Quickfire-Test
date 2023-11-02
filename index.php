@@ -1,7 +1,7 @@
 <?php
 
 
-echo("Charlie Howes - Quickfire Digital - Backend Developer Test\n");
+echo("Charlie Howes\n");
 echo("------------------------------------------------------\n");
 
 //Shopify Admin REST API Tokens and Information.
